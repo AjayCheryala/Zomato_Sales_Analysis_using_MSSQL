@@ -7,7 +7,7 @@ In this project, I analysed zomato sales using MSSQL.
 
 •	Aggregate functions - SUM, COUNT, MIN, MAX
 
-•	Window functions - CTE, RANK (), DENSE_RANK (), ROW_NUMBER ()
+•	Window functions - RANK (), DENSE_RANK (), ROW_NUMBER ()
 
 •	Sub queries
 
