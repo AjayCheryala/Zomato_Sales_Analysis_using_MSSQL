@@ -7,15 +7,15 @@ Some of the questions that I answered.
 # Function used to solve these queries: -
 
 
-#Aggregate functions - SUM, COUNT, MIN, MAX
+#### Aggregate functions - SUM, COUNT, MIN, MAX
 #### Window functions - CTE, RANK (), DENSE_RANK (), ROW_NUMBER ()
-## Sub queries
-## Date functions
-## Multi-Tables Joins
-## Concatenate
-## CASE WHEN statement
-## Where clause
-## Common Table Expression (CTE)
+#### Sub queries
+#### Date functions
+#### Multi-Tables Joins
+#### Concatenate
+#### CASE WHEN statement
+#### Where clause
+#### Common Table Expression (CTE)
 
 
 1. What is the total amount each customer spent on zomato?
