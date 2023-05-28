@@ -4,7 +4,7 @@ Zomato Sales Analysis using SQL.
 In this project, I analysed zomato sales using MSSQL.
 
 Some of the questions that I answered.
-# Function used to solve these queries: -
+### Function used to solve these queries: -
 
 
 #### Aggregate functions - SUM, COUNT, MIN, MAX
