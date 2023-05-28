@@ -6,14 +6,23 @@ In this project, I analysed zomato sales using MSSQL.
 ### Function used to solve these queries: -
 
 •	Joins
+
 •	Aggregate functions - SUM, COUNT, MIN, MAX
+
 •	Window functions - CTE, RANK (), DENSE_RANK (), ROW_NUMBER ()
+
 •	Sub queries
+
 •	Date functions
+
 •	Multi-Tables Joins
+
 •	Concatenate
+
 •	CASE WHEN statement
+
 •	Where clause
+
 •	Common Table Expression (CTE)
 
 
