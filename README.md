@@ -3,8 +3,6 @@ Zomato Sales Analysis using SQL.
 
 In this project, I analysed zomato sales using MSSQL.
 
-Questions that I answered.
-
 ### Function used to solve these queries: -
 Aggregate functions - SUM, COUNT, MIN, MAX
 
@@ -24,6 +22,7 @@ Where clause
 
 Common Table Expression (CTE)
 
+###Questions that I answered.
 
 1. What is the total amount each customer spent on zomato?
 2. How many days has each customer visited Zomato?
