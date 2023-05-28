@@ -22,7 +22,7 @@ Where clause
 
 Common Table Expression (CTE)
 
-###Questions that I answered.
+### Questions that I answered.
 
 1. What is the total amount each customer spent on zomato?
 2. How many days has each customer visited Zomato?
